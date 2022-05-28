@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadernasr7@gmail.com)](mailto:nadernasr7@gmail.com)
 
 
-    Hello my name is Nader Nasr, Fullstack JavaScript Developer and aspiring DevOps.
+    Hello my name is Nader Nasr, Fullstack JavaScript Developer
 
 ## Knowledges
 
