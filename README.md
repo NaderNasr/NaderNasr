@@ -1,8 +1,9 @@
 # :man_technologist: Nader Nasr
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nnasr/)](https://www.linkedin.com/in/nnasr/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nnasr/)](https://www.linkedin.com/in/nnasr/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadernasr7@gmail.com)](mailto:nadernasr7@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadernasr7@gmail.com)](mailto:nadernasr7@gmail.com)
 
 
     Hello my name is Nader Nasr, Fullstack JavaScript Developer
