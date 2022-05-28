@@ -19,7 +19,7 @@
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/NaderNasr/)](https://github.com/NaderNasr/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/NaderNasr/)](https://github.com/NaderNasr/)
-[![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=NextJS&link=https://github.com/NaderNasr/)](https://github.com/NaderNasr/)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/NaderNasr/)](https://github.com/NaderNasr/)
 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/NaderNasr/)](https://github.com/NaderNasr/)
