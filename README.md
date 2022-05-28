@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nnasr/)](https://www.linkedin.com/in/nnasr/)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadernasr7@gmail.com)](mailto:luiz7401@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadernasr7@gmail.com)](mailto:nadernasr7@gmail.com)
 
 
     Hello my name is Nader Nasr, Fullstack JavaScript Developer and aspiring DevOps.
