@@ -4,7 +4,7 @@
 
     Hello my name is Nader Nasr, Fullstack JavaScript Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadernasr&count_private=true)
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
