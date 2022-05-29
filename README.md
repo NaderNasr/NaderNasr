@@ -1,6 +1,6 @@
 
 
-[![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadernasr&count_private=true&show_icons=true&theme=codeSTACKr&hide=stars,contribs)](https://github.com/NaderNasr?tab=repositories)
+<p align="center">[![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadernasr&count_private=true&show_icons=true&theme=codeSTACKr&hide=stars,contribs)](https://github.com/NaderNasr?tab=repositories)</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderNasr&langs_count=10&theme=tokyonight&layout=compact" alt="NaderNasr :: Top Langs" /></p>
 
