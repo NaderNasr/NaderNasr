@@ -2,6 +2,7 @@
 
 [![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadernasr&count_private=true&show_icons=true&theme=codeSTACKr&hide=stars,contribs)](https://github.com/NaderNasr?tab=repositories)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderNasr&langs_count=10&theme=tokyonight&layout=compact" alt="NaderNasr :: Top Langs" /></p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnasr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadernasr7@gmail.com)
