@@ -52,7 +52,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderNasr&langs_count=10&theme=tokyonight&layout=compact" alt="NaderNasr :: Top Langs" />
 
-[![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadernasr&count_private=true&show_icons=true&theme=codeSTACKr&hide=stars,contribs)](https://github.com/NaderNasr?tab=repositories)
+<!-- [![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadernasr&count_private=true&show_icons=true&theme=codeSTACKr&hide=stars,contribs)](https://github.com/NaderNasr?tab=repositories) -->
 
 
 
